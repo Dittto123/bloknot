@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo-img{
+    color: green;
+}
+
+.info-book{
+    font-size: 34px;
+    color: darkkhaki;
+}
+
+.text-write{
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.form-control{
+    border: 1px solid black !important;
+}
+
+.btn{
+    width: 100% !important;
+    margin-left: none;
+}
+
